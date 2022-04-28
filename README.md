@@ -1,0 +1,1 @@
+# sawasdee-ios-miniapp
